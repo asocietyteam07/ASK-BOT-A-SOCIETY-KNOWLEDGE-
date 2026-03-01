@@ -1,0 +1,5 @@
+{
+  "name": "ASK (A SOCIETY KNOWLEDGE)",
+  "description": "An intelligent educational chatbot designed to provide clear, concise, and deep knowledge across various subjects.",
+  "requestFramePermissions": ["microphone"]
+}
